@@ -1,10 +1,11 @@
-# PSXFunkin
-Friday Night Funkin' on the PSX LOL
+# PSXFunkin: B SIDES
+Friday Night Funkin'B-Sides on the PSX ROFL
 
 ## Compilation
 Refer to [COMPILE.md](/COMPILE.md) here
 
 ## Disclaimer
-This project is not endorsed by the original Friday Night Funkin' devs, this is just an unofficial fan project because I was bored.
-
-Assets such as Week 7, VS Kapi, VS Tricky are used with permission from their respective owners.
+All the B-Sides assets belong to rozebud, jads and cval.
+If you want to use them ask them.
+If you wanna use my  code like the credits menu, feel free to do so
+just credit me.
